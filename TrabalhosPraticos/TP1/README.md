@@ -1,4 +1,4 @@
-# TP1 - How to Run
+# FaceDetectionAndRecognitionApp - How to Run
 
 This README file provides instructions on how to run FaceDetectionAndRecognitionApp files.
 
@@ -17,7 +17,7 @@ Before running the TP1 files, make sure you have the following prerequisites ins
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/AnaSofOliveira/VARM2324
     ```
 
 2. Navigate to the TP1 directory:
