@@ -66,7 +66,7 @@ class FaceDetectionAndRecognitionApp:
 
             normalizer = Normalization(frame)
             
-            _, norm_test_image = normalizer.normalize(show_images=False)
+            _, norm_test_image = normalizer.normalize(show_images=True)
             
             if norm_test_image is not None:
                 face_coords, eyes_coords = normalizer.get_original_face_and_eyes_coords()

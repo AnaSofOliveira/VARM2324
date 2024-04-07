@@ -9,7 +9,6 @@ class Normalization:
 
         self.__load_image(image, type(image))
 
-
         self.__face_detector = cv2.CascadeClassifier(cv2.data.haarcascades+'haarcascade_frontalface_default.xml')
         self.__eyes_detector = cv2.CascadeClassifier(cv2.data.haarcascades+'haarcascade_eye_tree_eyeglasses.xml')
 
@@ -133,10 +132,8 @@ class Normalization:
             eyes = self.__object_detection()
             marked_image = self.__mark_object_in_image(marked_image, object='eyes')
 
-            # TODO Rodar a face
             self.__rotate_image()
 
-            # TODO Redimensionar a face
             self.__resize_image()
 
             self.__crop_norm_face()
@@ -147,7 +144,7 @@ class Normalization:
                 self.__show_image(marked_image, "Marked Image")
                 self.__show_image(self.__rotated_image, "Rotated Image", cmap='gray')
                 self.__show_image(self.__resized_image, "Resized Image", cmap='gray')
-
+                self.__show_image(self.__norm_face, "Cropped Image", cmap='gray')
 
             return self.__original_image, self.__norm_face
         

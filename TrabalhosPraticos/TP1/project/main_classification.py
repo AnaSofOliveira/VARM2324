@@ -112,11 +112,10 @@ print("Model 2 Test Score: ", model2_score)
 print("Model 3 Test Score: ", model3_score)
 
 
-# On each teste image, plot the image with the predicted label and the true label
+'''# On each teste image, plot the image with the predicted label and the true label
 for i in range(X2.shape[0]):
     
     plt.subplots(1, 3, figsize=(10, 5))
-    print(X2.shape[0])
     plt.subplot(1, 3, 1)
     plt.imshow(X2[i].reshape(56, 46), cmap='gray')
     plt.title(f"Predicted: {model1_pred[i]} - True: {y2[i]}")
@@ -130,21 +129,10 @@ for i in range(X2.shape[0]):
     plt.title(f"Predicted: {model3_pred[i]} - True: {y2[i]}")
     plt.show()
 
-# Plot the ROC curve for each model
-plt.plot(model1_roc)
-plt.title("Model 1 ROC Curve")
-plt.show()
-
-plt.plot(model2_roc)
-plt.title("Model 2 ROC Curve")
-plt.show()
-
-plt.plot(model3_roc)
-plt.title("Model 3 ROC Curve")
-plt.show()
+'''
 
 # Plot the confusion matrix for each model
-
+print("Classes: ", np.unique(y2))
 print("Model 1 Confusion Matrix")
 print(confusion_matrix(y2, model1_pred))
 
