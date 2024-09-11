@@ -1,0 +1,3 @@
+- **[[Jogos e Entretenimento]]:** Experiências imersivas que transportam os jogadores para mundos virtuais.
+- **[[Treinamento e Simulação]]:** Desde pilotos de avião a cirurgiões, VR oferece um ambiente seguro para treinamento prático.
+- **[[Arquitetura e Design]]:** Permite a visualização de projetos em escala real antes da construção, facilitando modificações e ajustes.

@@ -1,0 +1,3 @@
+ - **[[Combinação de elementos reais e virtuais]]:** A AR mescla objetos digitais com o mundo real, enriquecendo a percepção do usuário.
+- **[[Interatividade em Tempo Real]]:** A experiência de AR deve ser dinâmica e responder às ações do usuário instantaneamente.
+- **[[Registro em 3D]]:** Os elementos virtuais são ancorados no mundo real de maneira tridimensional, criando uma sensação de profundidade e realismo.

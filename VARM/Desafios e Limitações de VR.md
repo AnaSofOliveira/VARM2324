@@ -1,0 +1,3 @@
+- **[[Motion Sickness]]:** A latência entre o movimento do usuário e a resposta visual pode causar enjoo.
+- **[[Resolução e Qualidade de Imagem]]:** A resolução dos displays deve ser alta para evitar a percepção de pixels individuais (efeito screen-door).
+- **[[Hardware Potente]]:** Requisitos de processamento elevados para renderizar gráficos realistas em tempo real.

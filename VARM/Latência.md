@@ -1,0 +1,1 @@
+Atraso entre os movimentos do usuário e a atualização da imagem pode causar desconforto e enjoo.

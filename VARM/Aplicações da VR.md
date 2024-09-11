@@ -1,0 +1,11 @@
+- **[[Entretenimento]]:**
+    - Jogos VR proporcionam experiências imersivas, permitindo aos jogadores interagir em mundos digitais de forma realista.
+    - Filmes e vídeos em VR oferecem perspectivas de 360 graus, criando novas formas de narrativa e imersão.
+- **[[Educação]]:**
+    - Simulações de laboratório permitem que estudantes realizem experimentos em ambientes controlados e seguros.
+    - Aulas virtuais em VR podem transportar alunos para locais históricos ou ambientes naturais, enriquecendo o aprendizado.
+- **[[Saúde]]:**
+    - Terapias de exposição para tratar fobias ou PTSD utilizam ambientes virtuais controlados.
+    - Treinamento médico em VR permite a prática de procedimentos complexos em um ambiente seguro e repetível.
+- **[[Arquitetura e Design]]:**
+    - Modelos arquitetônicos em VR permitem a visualização e modificação de projetos em escala real antes da construção.
