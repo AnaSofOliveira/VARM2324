@@ -1,3 +1,0 @@
-- **[[Marketing e Varejo]]:** AR é usada para visualizações de produtos e experiências interativas em lojas.
-- **[[Medicina]]:** Treinamento e assistência cirúrgica com sobreposição de informações críticas.
-- **[[Educação]]:** Material didático interativo e simulações práticas para um aprendizado envolvente.

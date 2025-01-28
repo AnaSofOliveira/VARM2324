@@ -1,3 +1,0 @@
-- **[[Microsoft HoloLens]]:** Um HMD que oferece uma experiência de AR com sensores avançados e rastreamento preciso.
-- **[[Magic Leap]]:** Outro HMD que promete uma AR imersiva com tecnologia de campo de luz.
-- **[[Smartphones e Tablets]]:** Dispositivos móveis com ARKit (Apple) e ARCore (Google) oferecem experiências de AR acessíveis.

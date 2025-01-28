@@ -1,3 +1,0 @@
-- **[[Oculus Rift]]:** Um dos primeiros HMDs modernos que popularizou a VR.
-- **[[HTC Vive]]:** Oferece uma experiência de VR de alta qualidade com sensores externos para rastreamento preciso.
-- **[[PlayStation VR]]:** Traz VR para consoles de jogos, tornando-a acessível para um público mais amplo.

@@ -1,1 +1,0 @@
-A criação de gráficos e sons realistas é crucial para a imersão, mas desafiador tecnicamente.

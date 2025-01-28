@@ -1,2 +1,0 @@
-- **[[Visão Computacional]]:** Algoritmos que identificam e rastreiam pontos de interesse no ambiente real para alinhar objetos virtuais.
-- **[[Mapeamento Simultâneo e Localização (SLAM)]]:** Permite que dispositivos de AR construam um mapa do ambiente enquanto rastreiam sua própria localização.

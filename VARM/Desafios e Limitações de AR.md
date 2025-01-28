@@ -1,3 +1,0 @@
- - **[[Campo de Visão]]:** A limitação do campo de visão nos HMDs pode afetar a imersão.
- - **[[Precisão do Rastreamento]]:** Manter o registro preciso dos elementos virtuais em tempo real é um desafio técnico.
- - **[[Latência]]:** Atrasos na atualização dos elementos AR podem quebrar a ilusão e causar desconforto.

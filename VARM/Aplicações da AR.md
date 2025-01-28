@@ -1,9 +1,0 @@
-- **[[Indústria e Construção]]:**
-    - AR é usada para visualizar projetos de construção sobre o terreno real, identificando discrepâncias e evitando erros de construção.
-    - A manutenção de máquinas e equipamentos é facilitada por guias visuais que mostram os passos a seguir em tempo real.
-- **[[Educação e Treinamento]]:**
-    - Simulações educacionais em AR permitem que os alunos interajam com modelos 3D de organismos, sistemas solares, entre outros.
-    - Treinamentos de segurança em ambientes de alto risco podem ser realizados virtualmente, minimizando perigos reais.
-- **[[Saúde]]:**
-    - Cirurgias assistidas por AR permitem aos médicos visualizar informações críticas sobre o paciente diretamente no campo de visão.
-    - Terapias de reabilitação podem ser mais eficazes com exercícios guiados por AR.

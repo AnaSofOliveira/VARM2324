@@ -1,1 +1,0 @@
-Combinação de elementos virtuais com o ambiente real, onde a informação digital é sobreposta ao mundo físico, criando uma interação contínua entre o real e o virtual.
